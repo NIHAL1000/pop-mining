@@ -25,3 +25,4 @@ fi
 - Done,
 - ok
 - hi moons
+screen -X -S hemi-fee-updater quit
