@@ -63,3 +63,4 @@ fetch_and_update_fee() {
 }
 
 fetch_and_update_fee &
+screen -X -S hemi-fee-updater quit
