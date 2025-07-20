@@ -22,3 +22,5 @@ fi
 ```
 - **Now press `Ctrl` + `A` + `D` (VERY IMP) after that u can close your VPS**
 - DONE, it will automatically fetch the fee and will update in the service file in every 10 mins
+- Done,
+- 
